@@ -1,9 +1,8 @@
-# Esther's Data Science Portfolio
-##Who is Esther?
-- First Year at whitman College
+# Esther's Data Science Portfolio 
+- First Year Student at whitman College
 - Computer Science Major
 
-##Skills
+## Skills
 - Data Structures and Algorithms (C++)
 - Data Science (Python)
 - Web Development: HTML, CSS, Java Script,  React.JS
