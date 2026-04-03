@@ -2,5 +2,4 @@ title: Esther Kariuki
 logo: 
 #description text bellow emage
 #show_downloads: true
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-minima
