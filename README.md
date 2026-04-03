@@ -11,3 +11,8 @@
 ## Work Eperience
 - Instructional Computing Consultant
 - Harper Joy Theater Website Manager
+
+## Project Ideas
+1. Does consistency with major decision predict, graduation probability?
+2. Does pet ownership affect spending rates?
+3. How has my usage of spotify and other soocial media changed over time?
