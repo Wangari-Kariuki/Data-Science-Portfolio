@@ -29,5 +29,5 @@ Below is a list of 3 cool project ideas for my final project in intro to data sc
 3. Analyzing job listings and the demand for AI-related skills 
   Research questions:
 - How prevalent are AI related skills in modern job listings?
-- To whart Extent are AI skills becoming  requirement across different job roles?
+- To what extent are AI skills becoming  requirement across different job roles?
 - Are AI skills becoming a basleine expectation even for non-AI related roles?
