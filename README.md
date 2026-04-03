@@ -1,7 +1,5 @@
 # Welcome to my Data Science Portfolio
-- First Year Student at whitman College
-- Computer Science Major
-
+- First Year Computer Science Major Student at Whitman College
 ## Skills
 - Data Science (Python)
 - Data Structures and Algorithms (C++)
@@ -22,7 +20,7 @@ Research questions:
 - How has the rate of switching majors changed over time?
 - In what period or year do students switch majors?
 
-2. Pet ownership and geographical locations
+2. Pet ownership and census data
 
 Research questions:
 - How does pet ownership vary with number of people per household?
