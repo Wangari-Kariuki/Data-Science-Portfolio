@@ -26,3 +26,13 @@ Below is a list of 3 cool project ideas and their respective research questions.
 - How prevalent are AI related skills in modern job listings?
 - To what extent are AI skills becoming  requirement across different job roles?
 - Are AI skills becoming a basleine expectation even for non-AI related roles?
+
+## Project  update
+I have decided to explore my first option. So far I have obtained more than four thousand entries of enrolled students from the Institutional Research department  and I will be wrangling the daa in the coming weeks. This is a personal project but I might reach out to my classmates and professor for help if necessary. 
+Research questions:
+- Does switching majors affect a student's likelihood of graduating?
+- Which program categories do students mostly switch to or from?
+- How has the rate of switching majors changed over time?
+- In what period or year do students switch majors?
+
+
