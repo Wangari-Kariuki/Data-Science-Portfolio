@@ -37,6 +37,7 @@ Research questions:
 
 ## Project Update 2
 Obtaining and exploring available datasets
-I decided to work with data from the institute's research department, which I obtained by requesting it from the director of the institute through my professor. The dataset contains information about enrolled students, their declared academic interests, and their graduation status. This allows us to explore questions regarding the trends in the types of programs students switch to or from, the number of students who change majors, and the number of students who graduated or withdrew from college. I noticed there are inconsistencies with the data, such as missing values, mismatched dates, error codes, and duplicated values.
+
+I decided to work with data from the wWhitman's institute research department, which I obtained by requesting it from the director of institute research through my professor. The dataset contains information about enrolled students, their declared academic interests, and their graduation status. This allows us to explore questions regarding the trends in the types of programs students switch to or from, the number of students who change majors, and the number of students who graduated or withdrew from college. I noticed there are inconsistencies with the data, such as missing values, mismatched dates, error codes, and duplicated values.
 
 
