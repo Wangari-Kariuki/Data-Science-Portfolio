@@ -40,6 +40,9 @@ Obtaining and exploring available datasets
 
 I decided to work with data from the wWhitman's institute research department, which I obtained by requesting it from the director of institute research through my professor. The dataset contains information about enrolled students, their declared academic interests, and their graduation status. This allows us to explore questions regarding the trends in the types of programs students switch to or from, the number of students who change majors, and the number of students who graduated or withdrew from college. I noticed there are inconsistencies with the data, such as missing values, mismatched dates, error codes, and duplicated values.
 
+
+The visualization bellow is a map plot of Professor Jordan's location records for the day March 11th 2022.
+Zoom in and hover over the points to see her movement at different times of the day. 
 <iframe 
   src="https://wangari-kariuki.github.io/Data-Science-Portfolio/march_11_movement_map.html" 
   width="100%" 
@@ -47,4 +50,10 @@ I decided to work with data from the wWhitman's institute research department, w
   frameborder="0" 
   scrolling="no">
 </iframe>
+Through this visualization of geospatial data I was able to obtain a chronological pattern of her movements since from 12 AM to 11 PM. 
+I infered the following:
+Professor WB spent the night and most of her morning at the Marcus Whitman Hotel, as indicated by the numerous location points recorded at different timestamps, ranging from 12 AM to 10 AM. 
 
+She began her day by visiting the American Corps Association, which is just a few meters from the Marcus Whitman Hotel. In the early morning and afternoon, she went to a Mediterranean restaurant, likely to have a late dinner and breakfast. 
+
+Afterward, there was significant activity around Whitman buildings. This started with Olin Hall, followed by the Hall of Science in the late afternoon from 4:00 PM to 6:00 PM. She then visited the Memorial Building at 7:00 PM and 8:00 PM, before returning to Olin Hall and the Hall of Science until 11:00 PM.
