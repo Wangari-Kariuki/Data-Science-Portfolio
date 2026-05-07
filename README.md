@@ -10,6 +10,8 @@
 - Instructional Computing Consultant
 - Harper Joy Theater Website Manager
 
+Here are some projects I have been working on 
+### 1
 ## Project Ideas
 Below is a list of 3 cool project ideas and their respective research questions.
 1. Major choices and graduation rates
@@ -40,6 +42,10 @@ Obtaining and exploring available datasets
 
 I decided to work with data from the wWhitman's institute research department, which I obtained by requesting it from the director of institute research through my professor. The dataset contains information about enrolled students, their declared academic interests, and their graduation status. This allows us to explore questions regarding the trends in the types of programs students switch to or from, the number of students who change majors, and the number of students who graduated or withdrew from college. I noticed there are inconsistencies with the data, such as missing values, mismatched dates, error codes, and duplicated values.
 
+More updates about this project can be found in this page:  <a href= "https://github.com/Wangari-Kariuki/Data-Science-Portfolio/blob/main/Program%20interest%20vs%20graduation%20rate.md">Program interest vs graduation rate</a>
+
+### 2
+# Mapping geospatial data
 
 The visualization bellow is a map plot of Professor Jordan's location records for the day March 11th 2022.
 Zoom in and hover over the points to see her movement at different times of the day. 
