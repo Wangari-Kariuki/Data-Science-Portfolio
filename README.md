@@ -42,7 +42,7 @@ Obtaining and exploring available datasets
 
 I decided to work with data from the wWhitman's institute research department, which I obtained by requesting it from the director of institute research through my professor. The dataset contains information about enrolled students, their declared academic interests, and their graduation status. This allows us to explore questions regarding the trends in the types of programs students switch to or from, the number of students who change majors, and the number of students who graduated or withdrew from college. I noticed there are inconsistencies with the data, such as missing values, mismatched dates, error codes, and duplicated values.
 
-More updates about this project can be found in this page:  <a href= "https://github.com/Wangari-Kariuki/Data-Science-Portfolio/blob/main/Program%20interest%20vs%20graduation%20rate.md">Program interest vs graduation rate</a>
+More updates about this project can be found in this page:  <a href= "https://wangari-kariuki.github.io/Program-interest-vs-graduation-rate/">Program interest vs graduation rate</a>
 
 ### 2
 # Mapping geospatial data
